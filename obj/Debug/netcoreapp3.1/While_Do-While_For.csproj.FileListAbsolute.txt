@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.exe
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.dll
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\bin\Debug\netcoreapp3.1\While_Do-While_For.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.dll
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\While_Do-While_For\obj\Debug\netcoreapp3.1\While_Do-While_For.genruntimeconfig.cache
